@@ -1,0 +1,15 @@
+name: nebula
+description: Slice makes your Flutter development journey easier by providing helper widgets, utilities and abstractions.
+version: 0.0.1
+homepage: https://github.com/aldrinsartfactory/nebula.dart
+repository: https://github.com/aldrinsartfactory/nebula.dart.git
+
+environment:
+  sdk: '>=2.16.1 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^1.0.0

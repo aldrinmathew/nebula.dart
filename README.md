@@ -1,0 +1,1 @@
+Slice makes your Flutter development journey easier by providing helper widgets, utilities and abstractions.
