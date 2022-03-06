@@ -5,3 +5,4 @@ library nebula;
 import 'package:flutter/material.dart';
 
 part 'dimension.dart';
+part 'fit_size.dart';
