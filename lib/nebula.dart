@@ -6,3 +6,4 @@ import 'package:flutter/material.dart';
 
 part 'dimension.dart';
 part 'fit_size.dart';
+part 'overlay_store.dart';
